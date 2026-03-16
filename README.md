@@ -59,6 +59,8 @@
 
 > **注意**：所有设计文件使用 Altium Designer 格式，需要使用 Altium Designer 或兼容软件打开。
 
+> **⚠️ 电源设计重要说明**：请务必查阅 [电源设计文档](https://my.feishu.cn/wiki/MVp0wq0Vnib6Ukkn5mBcyak0nxh?from=from_copylink)，否则电源设计可能存在问题。
+
 
 
 
